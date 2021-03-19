@@ -42,7 +42,7 @@
     "is_project_page": true,
     "show_downloads": true,
     "url": "http://username.github.io/metadata-example", // (or the CNAME)
-    "baseurl": "/metadata-example",
+    "baseurl": "/codescrit.github.io",
     "contributors": [ User Objects ],
     "releases": [ Release Objects ],
     "latest_release": [ Release Object ],
