@@ -8,6 +8,9 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-7">{{ content }}</div>
+			{% if page.forms[0] %}
+			{% include form.html form="1" %}
+			{% endif %}
 			<div class="col-md-1"></div>
 			<div class="col-md-4">{% include sidebar.html %}</div>
 		</div>
