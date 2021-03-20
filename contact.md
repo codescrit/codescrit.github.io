@@ -1,7 +1,7 @@
 ---
 layout: page
 forms:
-  - to: jhvanderschee@gmail.com
+  - to: ishvager@gmail.com
     subject: New submission!
     redirect: /
     form_engine: formspree
