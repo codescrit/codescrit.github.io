@@ -6,4 +6,4 @@ permalink: /about/contact/
 
 Contact Us
 
-Email: codescrit@hotmail.com
+Email: contact-us@codescrit.com
