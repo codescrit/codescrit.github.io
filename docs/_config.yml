@@ -24,12 +24,29 @@ description: >- # this means to ignore newlines until "baseurl:"
   We are boutique software development company that profives personalized services
   for a select number of customers.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "codescrit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://codescrit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+markdown: GFM
 twitter_username: codescrit
 github_username:  codescrit
 
 # Build settings
+
+# theme: jekyll-theme-architect  # not loading
+# theme: Cayman     # not found
+# theme: Dinky      # not found
+# theme: Hacker     # not found
+# theme: Leap day   # not found
+# theme: Merlot     # not found
+# theme: Midnight   # not found
 theme: minima
+# theme: jekyll-theme-minimal    # not loading
+# theme: Modernist  # not found
+# theme: Slate      # not found
+# theme: Tactile    # not found
+# theme: Time machine # not found
+
+# remote_theme: benbalter/retlab
+
 plugins:
   - jekyll-feed
 
