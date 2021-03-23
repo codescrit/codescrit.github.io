@@ -31,24 +31,27 @@ github_username:  codescrit
 
 # Build settings
 
-# theme: jekyll-theme-architect  # not loading
-# theme: Cayman     # not found
-# theme: Dinky      # not found
-# theme: Hacker     # not found
-# theme: Leap day   # not found
-# theme: Merlot     # not found
-# theme: Midnight   # not found
+# theme: jekyll-theme-architect  # Layout 'post', 'page', 'home' requrested in ... does not exist
+# theme: jekyll-theme-cayman     # Layout 'post', 'page', 'home' requrested in ... does not exist
+# theme: jekyll-theme-dinky      # Layout 'post', 'page', 'home' requrested in ... does not exist
+# theme: jekyll-theme-hacker     # page requested
+# theme: jekyll-theme-leap-day   # not found
+# theme: jekyll-theme-merlot     # not found
+# theme: jekyll-theme-midnight   # Layout 'post', 'page', 'home' requrested in ... does not exist
 theme: minima
 # theme: jekyll-theme-minimal    # not loading
-# theme: Modernist  # not found
-# theme: Slate      # not found
-# theme: Tactile    # not found
-# theme: Time machine # not found
+# theme: jekyll-theme-modernist  # not found
+# theme: jekyll-theme-primer
+# theme: jekyll-theme-slate      # not found
+# theme: jekyll-theme-tactile    # not found
+# theme: jekyll-theme-time-machine # not found
 
 # remote_theme: benbalter/retlab
 
 plugins:
   - jekyll-feed
+
+github: [metadata]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
