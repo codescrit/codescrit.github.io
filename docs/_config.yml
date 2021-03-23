@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Codescrit LLC
+title: codescrit
 email: contact-us@codescrit.com
 description: >- # this means to ignore newlines until "baseurl:"
   We are boutique software development company that profives personalized services
@@ -31,27 +31,34 @@ github_username:  codescrit
 
 # Build settings
 
-# theme: jekyll-theme-architect  # Layout 'post', 'page', 'home' requrested in ... does not exist
-# theme: jekyll-theme-cayman     # Layout 'post', 'page', 'home' requrested in ... does not exist
-# theme: jekyll-theme-dinky      # Layout 'post', 'page', 'home' requrested in ... does not exist
-# theme: jekyll-theme-hacker     # page requested
-# theme: jekyll-theme-leap-day   # not found
-# theme: jekyll-theme-merlot     # not found
-# theme: jekyll-theme-midnight   # Layout 'post', 'page', 'home' requrested in ... does not exist
-theme: jekyll-theme-hacker
-# theme: jekyll-theme-minimal    # not loading
-# theme: jekyll-theme-modernist  # not found
-# theme: jekyll-theme-primer
-# theme: jekyll-theme-slate      # not found
-# theme: jekyll-theme-tactile    # not found
-# theme: jekyll-theme-time-machine # not found
+# theme: jekyll-theme-architect   # Layout 'post', 'page', 'home' requrested in ... does not exist
+# theme: jekyll-theme-cayman      # Layout 'post', 'page', 'home' requrested in ... does not exist
+# theme: jekyll-theme-dinky       # Layout 'post', 'page', 'home' requrested in ... does not exist
+# theme: jekyll-theme-hacker      # Layout page', 'home' requrested in ... does not exist
+# theme: jekyll-theme-leap-day    # ney
+# theme: jekyll-theme-merlot      # ney
+# theme: jekyll-theme-midnight    # Layout 'post', 'page', 'home' requrested in ... does not exist
+theme: minima
+# theme: jekyll-theme-minimal     # Layout page', 'home' requrested in ... does not exist
+# theme: jekyll-theme-modernist   # Layout 'post', 'page', 'home' requrested in ... does not exist
+# theme: jekyll-theme-primer      # only shoes title. no errors though
+# theme: jekyll-theme-slate       # Layout 'post', 'page', 'home' requrested in ... does not exist
+# theme: jekyll-theme-tactile     # Layout 'post', 'page', 'home' requrested in ... does not exist
+# theme: jekyll-theme-time-machine # Layout 'post', 'page', 'home' requrested in ... does not exist
 
-# remote_theme: benbalter/retlab
+# remote_theme: benbalter/retlab    # need to add 'jekyll-include-cache' to the Gemfile as dependency
 
 plugins:
   - jekyll-feed
 
-github: [metadata]
+# Need this line to fix 'No GitHub API authentication could be found'
+# Can be ignored since it is just a working
+# github: [metadata]                
+# Alternativly we can generate the token and add it to ~/.bash_profile
+# export JEKYLL_GITHUB_TOKEN=<your token>
+# or run `JEKYLL_GITHUB_TOKEN=<your token> jekyll serve`
+# or maybe `bundle exec JEKYLL_GITHUB_TOKEN=<your token> jekyll serve`
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
