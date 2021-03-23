@@ -38,7 +38,7 @@ github_username:  codescrit
 # theme: jekyll-theme-leap-day   # not found
 # theme: jekyll-theme-merlot     # not found
 # theme: jekyll-theme-midnight   # Layout 'post', 'page', 'home' requrested in ... does not exist
-theme: minima
+theme: jekyll-theme-hacker
 # theme: jekyll-theme-minimal    # not loading
 # theme: jekyll-theme-modernist  # not found
 # theme: jekyll-theme-primer
