@@ -36,11 +36,11 @@ github_username:  codescrit
 # theme: jekyll-theme-architect   # Layout 'post', 'page', 'home' requrested in ... does not exist
 # theme: jekyll-theme-cayman      # Layout 'post', 'page', 'home' requrested in ... does not exist
 # theme: jekyll-theme-dinky       # Layout 'post', 'page', 'home' requrested in ... does not exist
-# theme: jekyll-theme-hacker      # Layout page', 'home' requrested in ... does not exist
+theme: jekyll-theme-hacker      # https://github.com/pages-themes/hacker
 # theme: jekyll-theme-leap-day    # ney
 # theme: jekyll-theme-merlot      # ney
 # theme: jekyll-theme-midnight    # Layout 'post', 'page', 'home' requrested in ... does not exist
-theme: minima                     # https://github.com/jekyll/minima
+# theme: minima                     # https://github.com/jekyll/minima
 # theme: jekyll-theme-minimal     # Layout page', 'home' requrested in ... does not exist
 # theme: jekyll-theme-modernist   # Layout 'post', 'page', 'home' requrested in ... does not exist
 # theme: jekyll-theme-primer      # only shoes title. no errors though
