@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: codescrit
-email: contact-us@codescrit.com
+title: lalatech
+email: contact-us@lalatechnology.com
 description: >- # this means to ignore newlines until "baseurl:"
-  We are boutique software development company that profives personalized services
-  for a select number of customers.
+  We are a boutique software development company that provides personalized 
+  services for a select number of customers.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://codescrit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: GFM
-twitter_username: codescrit
-github_username:  codescrit
+twitter_username: lalatech
+github_username:  lalatech
 
 # Build settings
 

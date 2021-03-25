@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+We are a Los Angeles-based boutique software company to meet the demand of companies nationwide. We have vast experience in building mobile-first software solutions with scalable and robust backend. Each customer has specific needs, and each project requires a personalized approach. By bringing the right technical solutions for each client, we help companies grow their business fast and with a long-term vision in mind. Customer satisfaction is our top priority.

@@ -6,4 +6,4 @@ permalink: /about/contact/
 
 Contact Us
 
-Email: contact-us@codescrit.com
+Email: contact-us@lalatechnology.com
