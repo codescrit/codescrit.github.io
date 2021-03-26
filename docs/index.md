@@ -9,13 +9,13 @@ layout: home
 
 
 
-# What is Lalatech?
+# What is Lalatech
 
 Lalatech is a community of passionate developers, designers, product and project managers. We thoroughly screen the most talented engineers in the world. Hire Lalatech for your most important projects and see how Lalatech is different.
 
 
 
-# What Do We Do?
+# What We Do
 	
 - Consult
 
@@ -29,7 +29,7 @@ Lalatech is a community of passionate developers, designers, product and project
 
 
 
-# How We Do It?
+# How We Do It
 	
 - We join your team. You already have a project that needs additional engineers. We will bring you top talent to join your existing team. 
 
@@ -43,6 +43,6 @@ Lalatech is a community of passionate developers, designers, product and project
 
 
 
-# Why Lalatech?
+# Why Lalatech
 
 We work smart and execute with the highest standards and on time.
