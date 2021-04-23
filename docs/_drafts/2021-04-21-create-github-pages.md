@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "New Post"
-date:   2021-03-21 10:20:30 -0000
-categories: mobile development
+title:  "Create Github Pages"
+date:   2021-04-21 10:20:30 -0000
+categories: static web development
 ---
-New post about some coding topic
+New post 1 about some coding topic
 
 It probably will have some code snippets like this:
 
