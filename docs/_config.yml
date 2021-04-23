@@ -48,8 +48,12 @@ theme: minima                     # https://github.com/jekyll/minima
 
 # remote_theme: benbalter/retlab    # need to add 'jekyll-include-cache' to the Gemfile as dependency
 
+# paginate: 5
+# paginate_path: "/blog/page:num/"
+
 plugins:
   - jekyll-feed
+  # - jekyll-paginate
 
 # Need this line to fix 'No GitHub API authentication could be found'
 # Can be ignored since it is just a working
